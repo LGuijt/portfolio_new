@@ -1,0 +1,21 @@
+$primary-color: #00676e;
+$secondary-color: #00fbff;
+$tertiary-color: #ff7fa8;
+$quaternary-color: #ba28c2;
+
+$color-text: #e9ecf3;
+
+@font-face {
+  font-family: "epilogue";
+  src: url(fonts/Epilogue/Epilogue-VariableFont_wght.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "fira-code";
+  src: url(fonts/Fira_Code/FiraCode-VariableFont_wght.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "kauskhan";
+  src: url(fonts/Kaushan_Script/KaushanScript-Regular.ttf) format("truetype");
+}
